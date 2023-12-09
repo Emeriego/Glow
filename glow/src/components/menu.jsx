@@ -4,7 +4,7 @@ import { FaSearch} from 'react-icons/fa'
 
 const menu = () => {
   return (
-    <div className="hidden w-auto h-4 lg:flex flex-row items-center justify-center gap-3 text-sm font-semibold mx-auto mb-10">
+    <div className="hidden w-auto h-4 lg:flex flex-row items-center justify-center gap-3 text-center font-semibold mx-auto pb-10">
         <ul className="text-xs list-none flex space-x-6 uppercase">
           <li>Home</li>
           <li>Contact</li>

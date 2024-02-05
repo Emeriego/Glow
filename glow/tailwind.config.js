@@ -4,9 +4,10 @@ export default {
   theme: {
     screens: {
       'xs': '200px',
+      'mobx': '300px',
       'mob': '430px',
-      'tab': '500px',
-      'sm': '640px',
+      'sm': '500px',
+      'tab': '640px',
       // => @media (min-width: 640px) { ... }
 
       'md': '768px',

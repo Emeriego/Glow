@@ -105,9 +105,9 @@ const App = () => {
           </div> */}
       </section>
       <section className="header-section4 px-10 mob:px-16 py-[8rem] relative w-full h-full flex flex-col items-center justify-center gap-0 lg:flex-row lg:px-24">
-        <div className="flex w-full flex-col lg:flex-row mob:gap-8 mob:items-center mob:justify-center lg:items-center lg:w-[65%]">
-          <div className="my-imgs w-full block grow bg-red-200 md:grow  h-[22rem] mob:min-h-[38rem] lg:max-h-[10rem] mb-10 lg:mr-[-5rem] z-10">
-            <img className=' object-cover w-full lg:w-full h-full mob:h-full' src={F2}/>
+        <div className="flex w-full flex-col lg:items-center lg:flex-row mob:gap-4  lg:w-[65%]">
+          <div className="my-imgs w-full lg:h-[100px] grow bg-red-200 md:grow display-none mob:bg-green-300 lg:min-h-[20rem] mb-10 lg:mr-[-2rem] z-10">
+            <img className=' object-cover w-full lg:w-full h-full' src={F5}/>
           </div>
           <div className="bg-red-200 grow w-full block overflow-hidden rounded rounded-t-full h-[28rem] mob:min-h-[58rem] lg:min-h-[33rem] mb-10 lg:min-w-[20rem]">
             <img className=' object-cover w-full mob:w-full h-full' src={F2}/>

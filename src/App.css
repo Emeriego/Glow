@@ -1,0 +1,22 @@
+#root {
+  max-width: 1280px;
+  margin: 0;
+  text-align: center;
+}
+
+  @media screen and (max-width: 450px) {
+
+    .fst-imgs{
+      /* display: none; */
+      height: 20rem;
+    }
+    .my-txts{
+      justify-content: flex-start;
+      align-items: flex-start;
+    }
+    .my-txts2{
+      justify-content: flex-start;
+      align-items: flex-start;
+    }
+  }
+

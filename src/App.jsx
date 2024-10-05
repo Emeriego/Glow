@@ -52,7 +52,7 @@ const App = () => {
       </section>
       <section className="header-section2 px-10 mob:px-16 pb-12 relative w-full h-full flex flex-col items-center justify-center gap-0 lg:px-24">
         <div className="section-header z-10 relative py-10 width-[]">
-          <h2 className='uppercase text-center text-700 mb-6 text-2xl leading-8 tracking-widest'>GLORIA FITNESS MENTOR</h2>
+          <h2 className='uppercase text-center text-700 mb-6 text-2xl leading-8 tracking-widest'>KASIA FITNESS MENTOR</h2>
           <h4 className='leading-8 tracking-wider text-center'>Health Coach for professional Models and Entrepreneurs</h4>
         </div>
         <div className="flex z-10 flex-col mob:grow lg:flex-row mob:gap-7 mob:items-center mob:justify-center lg:items-center lg:w-[90%]">

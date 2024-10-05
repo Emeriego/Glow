@@ -13,7 +13,7 @@ const Nav = () => {
         <FaInstagram />
       </div>
       <div className="font-serif font-10 transform-cpu">
-        <h2 className="font-extralight text-5xl">GLORIA</h2>
+        <h2 className="font-extralight text-5xl">KASIA</h2>
       </div>
       <div className="w-30 h-8 border border-black px-4 py-1 text-1xl">WORK WITH ME</div>
     
